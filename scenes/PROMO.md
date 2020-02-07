@@ -95,9 +95,9 @@ bb({eyes:"look"});
 
 [Ôi không, nhìn vào tin tức khủng khiếp đó đi!](#act1d_news)
 
-[Ôi không, tweet đó nói về *chúng ta* à?](#act1d_subtweet)
+[Ôi không, tweet đó nói xấu *chúng ta* à?](#act1d_subtweet)
 
-[Này, một GIF về một con mèo uống sữa](#act1d_milk)
+[Này, một GIF về một con mèo đang uống sữa](#act1d_milk)
 
 # act1d_milk
 
