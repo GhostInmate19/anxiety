@@ -1,3 +1,4 @@
+
 # act1
 
 ```
@@ -235,7 +236,7 @@ b: (Holt-Lunstad 2010, tạp chí PLoS Medicine)
 
 `hong({eyes:"0_annoyed"})`
 
-h: Ừm, cảm ơn vì lời trích dẫn của bạn nhưng--
+h: Ừm, cảm ơn vì lời trích dẫn của cậu nhưng--
 
 `Game.OVERRIDE_TEXT_SPEED = 2;`
 
@@ -269,18 +270,18 @@ bb({body:"normal", mouth:"small", eyes:"normal"});
 hong({body:"0_sammich"});
 ```
 
-b: Whip out your laptop and do some work right now!
+b: Lấy laptop ra và làm việc gì đó ngay bây giờ đi!
 
 `hong({eyes:"0_annoyed"})`
 
-h: Um, I'd rather not get crumbs in my keyboa--
+h: Ừm, mình không muốn vụn bánh rơi lên bàn ph--
 
 ```
 bb({mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: If we're not contributing to the body of society then we're a society-parasite!
+b: Nếu không đóng góp gì cho xã hội thì chúng ta chỉ là một kẻ ăn bám xã hội mà thôi!
 
 b: The society-body will go to the society-doctor for medication to kill their society-parasites then we'll--
 
@@ -289,7 +290,7 @@ bb({body:"panic", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -302,7 +303,7 @@ publish("hp_show");
 
 `_.parasite = true`
 
-n: YOU USED *FEAR OF BEING A BAD PERSON*
+n: BẠN ĐÃ SỬ DỤNG *NỖI SỢ TRỞ THÀNH NGƯỜI XẤU*
 
 (#act1b)
 
@@ -313,18 +314,18 @@ bb({body:"normal", mouth:"normal", eyes:"fear"});
 hong({body:"0_sammich", eyes:"0_annoyed"});
 ```
 
-h: Have those studies been replicat--
+h: Cậu lấy cái ý nghĩ đó ở đâu vậ--
 
 ```
 bb({body:"fear", mouth:"normal", eyes:"fear"});
 Game.OVERRIDE_TEXT_SPEED = 1.5;
 ```
 
-b: Processed wheat will spike our blood sugar so they'll have to amputate all our limbs and then we'll-
+b: Nó sẽ làm tăng lượng đường trong máu của chúng ta, rồi họ sẽ phải cắt bỏ các chi của chúng ta và chúng ta sẽ-
 
 `bb({body:"panic"})`
 
-b: DIEEEEEEEEEEEEEEEEEEE
+b: CHẾTTTTTTTTTTTTTTTT
 
 ```
 bb({body:"normal", mouth:"normal", eyes:"normal"});
@@ -337,27 +338,27 @@ publish("hp_show");
 
 `_.whitebread = true`
 
-n: YOU USED *FEAR OF BEING HARMED*
+n: BẠN ĐÃ SỬ DỤNG *NỖI SỢ BỊ TỔN THƯƠNG*
 
 (#act1b)
 
 # act1b
 
-n: IT'S SUPER EFFECTIVE
+n: NÓ SIÊU HIỆU QUẢ
 
 `bb({mouth:"smile", eyes:"smile"});`
 
-b: See, human? I am your loyal guard-wolf!
+b: Bạn thấy chưa? Mình là con sói bảo vệ trung thành của bạn!
 
 `bb({body:"pride_talk"});`
 
-b: Trust your gut! Your feelings are always valid!
+b: Hãy tin tưởng vào bản thân đi! Cảm xúc của bạn luôn có giá trị!
 
 `bb({body:"pride"});`
 
-n: GET YOUR HUMAN'S ENERGY BAR TO ZERO
+n: THANH NĂNG LƯỢNG CON NGƯỜI CỦA BẠN BỊ ĐƯA VỀ 0
 
-n: TO PROTECT THEIR PHYSICAL + SOCIAL + MORAL NEEDS, YOU CAN USE:
+n: ĐỂ BẢO VỆ CÁC NHU CẦU VỀ THỂ CHẤT + XÃ HỘI + ĐẠO ĐỨC CỦA CÔ ẤY, BẠN CÓ THỂ SỬ DỤNG:
 
 n: FEAR OF *BEING HARMED* #harm#
 
